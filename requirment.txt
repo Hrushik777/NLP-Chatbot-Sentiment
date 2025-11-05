@@ -1,0 +1,9 @@
+flask
+nltk
+vaderSentiment
+ollama
+faiss
+sentence_transformers
+pandas
+numpy
+requests
