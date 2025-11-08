@@ -105,7 +105,7 @@ def generate_response(user_input):
     # Retrieve relevant context
     context = retrieve_context(user_input)
     context_text = "\n".join(context)
-    print("📚 Retrieved context:\n", context_text)
+    
 
     # Build system prompt including context + tone
     system_prompt = (

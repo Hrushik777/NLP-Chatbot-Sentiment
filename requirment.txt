@@ -7,3 +7,4 @@ sentence_transformers
 pandas
 numpy
 requests
+streamlit
